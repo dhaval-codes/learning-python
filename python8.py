@@ -1,4 +1,4 @@
-#Build-in Data Types
+#Built-in Data Types
 
 # text-type: str
 # Numeric type: int, float, complex
